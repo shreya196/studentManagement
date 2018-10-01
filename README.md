@@ -1,2 +1,2 @@
 # studentManagement
-Python based student management system.
+Python based Student Management System.
